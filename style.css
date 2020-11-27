@@ -1,0 +1,48 @@
+
+body{
+    background-color: rgb(252, 228, 95);
+}
+
+
+h1{
+    color: purple;
+    text-align: center;
+    font-size: 50px;
+    background-color: grey;
+}
+
+.pr2{
+    background-color:orange;
+}
+
+.p1{
+    font-size: 20px;
+    
+}
+
+.pr3{
+    background-color:rgb(202, 134, 6);
+}
+
+.cale{
+    background-color:rgb(163, 108, 5); 
+}
+
+.listas{
+    background-color:rgb(112, 74, 3); 
+}
+
+.imagenes{
+    background-color:rgb(87, 57, 2); 
+}
+
+.cafe{
+    background-color:rgb(71, 47, 2); 
+}
+.p4{
+    background-color:rgb(68, 45, 2); 
+}
+
+.curri{
+    background-color:rgb(59, 38, 2); 
+}
